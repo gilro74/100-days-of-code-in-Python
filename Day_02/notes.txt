@@ -1,0 +1,10 @@
+Objectives
+- Data Types
+- Numbers
+- Operations
+- Type Conversions
+- f-Strings
+
+What I have learned:
+- The importance of type conversions and working with same data types
+
