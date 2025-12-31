@@ -8,17 +8,17 @@ if percentage_tip == 10:
     new_total_bill = float(total_bill * 1.1) #1.1 means 110%, same with other percentanges
     number_of_people =float(input("How many people would you like to split the bill? "))
     cost_per_person =new_total_bill / number_of_people
-    print(cost_per_person)
+    print(round(cost_per_person,2))
     
 elif percentage_tip == 12:
     new_total_bill = float(total_bill * 1.12)
     number_of_people =float(input("How many people would you like to split the bill? "))
     cost_per_person =new_total_bill / number_of_people
-    print(cost_per_person)
+    print(round(cost_per_person,2))
 
 elif percentage_tip == 15:
     new_total_bill = float(total_bill * 1.15)
     number_of_people =float(input("How many people would you like to split the bill? "))
     cost_per_person =new_total_bill / number_of_people
-    print(cost_per_person)
+    print(round(cost_per_person,2))
                                                                                                   
