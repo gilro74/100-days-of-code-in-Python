@@ -1,0 +1,8 @@
+For Day-01 - I learned about :
+-first python line code - "Hello world"
+-indentation error, syntanx error
+-"\n" - creates a new line
+-print() function displays information in the console
+-input("prompt info/question") is a function that need user's input but firstly shows a prompt
+-"+" in the print function is used for concatenation.
+
