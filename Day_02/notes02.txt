@@ -6,10 +6,20 @@ Objectives
 - f-Strings
 
 What I have learned:
-- The importance of type conversions and working with same data types
+-The importance of type conversions and working with same data types
 -float works with decimal Numbers
 -int - integers
 -bolean - True or false
 -string- a set of characters
 -'type()' helps us determine the data type of an object.
 -Type Conversions- converting data into different data types using special functions
+-ValueError- it normally happens when you maybe add trying to turn the string 'abc' into an integer,
+for which it is not possible.
+- when you divide something in python, python automatically the solution to float.
+- You can use this divide '//' if you only want the int and not the float, but be careful since its 
+does necessarily round up, it just takes the integer.
+- Mathematical Operations follows PEDMAS rule, P- Parenthesis, Exponents, Division, Multiplication, Addition, 
+Subtraction.
+-PEDMAS - goes from left to right.
+-Flooring a number removes decimals to the number.
+- f string converts things to you to string, you can put it before "", like f"{}"
