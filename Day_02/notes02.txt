@@ -7,4 +7,9 @@ Objectives
 
 What I have learned:
 - The importance of type conversions and working with same data types
-
+-float works with decimal Numbers
+-int - integers
+-bolean - True or false
+-string- a set of characters
+-'type()' helps us determine the data type of an object.
+-Type Conversions- converting data into different data types using special functions
