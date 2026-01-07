@@ -1,0 +1,7 @@
+Objectives
+-Loops
+
+what i have learned:
+- Turning a string into a list
+- random.shuffle(list)... shuffles the list in random order
+- for loop
