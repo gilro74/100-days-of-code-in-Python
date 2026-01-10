@@ -1,0 +1,8 @@
+Objectives
+-functions
+-while Loops
+
+What I have learned:
+-Python has built in functions like print(),len(),etc
+-"def" in creating a function means - defining a function
+-learned about while loops 
