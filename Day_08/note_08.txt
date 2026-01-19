@@ -1,0 +1,2 @@
+Note:
+-you can use module so %=25 so you dont go out of range of alphabet
